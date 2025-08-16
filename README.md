@@ -70,7 +70,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Mbl0aFqV3kK3YUU/giphy.gif" width="300"/>
+  <img src="https://tenor.com/jEj51GGUqvY.gif"/>
 </p>
 
 ---
