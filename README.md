@@ -70,7 +70,7 @@
 ---
 
 <p align="center">
-  <img src="https://tenor.com/jEj51GGUqvY.gif"/>
+  <img src="anaxa-1.gif"/>
 </p>
 
 ---
