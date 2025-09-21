@@ -70,7 +70,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kazuniverse/Kazuniverse/9888dd9b4ce59f2ffff88b8d18f9d59d0d89defc/anaxa-1.gif"/>
+  <img src="https://raw.githubusercontent.com/Kazuniverse/Kazuniverse/9888dd9b4ce59f2ffff88b8d18f9d59d0d89defc/ff-tb-1.gif"/>
 </p>
 
 ---
