@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=31A8FF&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Kazuniverse+%F0%9F%91%8B;Game+Dev+%7C+Web+Dev+%7C+Designer+%7C+Game+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=31A8FF&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Kazuniverse+%F0%9F%91%8B;Game+Dev+%7C+Web+Dev+%7C+Desi[...]"/>
 
 <br>
 <img src="https://img.shields.io/badge/Game%20Dev-Senior-43B581?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -97,17 +97,17 @@
 
 <div align="center">
 
-<a href="https://github.com/Kazuniverse/Pemula-React">
-  <img src="https://img.shields.io/badge/Pemula%20React-Education-61DBFB?style=for-the-badge&logo=react&logoColor=white"/>
+<a href="https://github.com/Kazuniverse/UMKMBackOffice">
+  <img src="https://img.shields.io/badge/UMKMBackOffice-Project-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/Kazuniverse/20-Basic-Stateless-Widget-Flutter">
-  <img src="https://img.shields.io/badge/Flutter%20Widgets-Tutorial-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<a href="https://github.com/Kazuniverse/KopsisStory3D">
+  <img src="https://img.shields.io/badge/KopsisStory3D-3D%20Experience-FF5722?style=for-the-badge&logo=unity&logoColor=white"/>
 </a>
-<a href="https://github.com/Kazuniverse/Pemula-JS">
-  <img src="https://img.shields.io/badge/Pemula%20JS-Education-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<a href="https://github.com/Kazuniverse/Restaurant-System">
+  <img src="https://img.shields.io/badge/Restaurant%20System-Management-2196F3?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
-<a href="https://github.com/Kazuniverse/Rent-Car-_ketch">
-  <img src="https://img.shields.io/badge/Rent%20Car%20Sketch-Project-5A4FCF?style=for-the-badge&logo=android&logoColor=white"/>
+<a href="https://github.com/Kazuniverse/Currency-Converter">
+  <img src="https://img.shields.io/badge/Currency%20Converter-Utility-FAB005?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </div>
