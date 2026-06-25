@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=31A8FF&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Kazuniverse+%F0%9F%91%8B;Game+Dev+%7C+Web+Dev+%7C+Desi[...]"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=31A8FF&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Kazuniverse+%F0%9F%91%8B;Game+Dev+%7C+Web+Dev+%7C+Designer;Always+Learning+%26+Growing+%F0%9F%92%AA"/>
 
 <br>
 <img src="https://img.shields.io/badge/Game%20Dev-Senior-43B581?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -23,15 +23,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kazuniverse&show_icons=true&theme=tokyonight" alt="Kazuniverse's GitHub stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kazuniverse&show_icons=true&theme=tokyonight&count_private=true" alt="Kazuniverse's GitHub stats" height="170"/>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kazuniverse&theme=tokyonight" alt="GitHub Streak" height="170"/>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazuniverse&theme=react-dark" alt="GitHub Contributions" height="200"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazuniverse&theme=react-dark&area=true" alt="GitHub Contributions" height="200"/>
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kazuniverse&theme=tokyonight" height="200"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kazuniverse&theme=tokyonight" height="200"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kazuniverse&theme=tokyonight" height="200"/>
+
+<!-- Top Language Widget -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuniverse&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="150"/>
 
 </div>
 
@@ -40,6 +43,7 @@
 - 📊 Statistik repo & bahasa favorit
 - 🏅 Grafik aktivitas kontribusi
 - 🧩 Detil profil dan ringkasan bahasa pemrograman
+- 💻 Top programming languages
 
 ---
 
@@ -53,6 +57,18 @@
 🎨 <span style="color:#F9DC5C;"><b>Designer & Illustrator</b></span> passionate about stunning visuals  
 📱 <span style="color:#5A4FCF;"><b>IT Software Enthusiast</b></span> Android, Kotlin, Java, Flutter, Visual Studio  
 🗣️ <span style="color:#EC4899;"><b>Public Speaker</b></span> – I love sharing ideas & connecting
+
+</div>
+
+---
+
+## 📈 GitHub Stats Overview
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/Kazuniverse?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Kazuniverse?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Kazuniverse&color=blue&style=flat-square)
 
 </div>
 
@@ -93,6 +109,29 @@
 
 ---
 
+## 🔧 Tech Stack
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+</div>
+
+---
+
 ## ✨ Showcase
 
 <div align="center">
@@ -127,6 +166,20 @@
 
 ---
 
+## 📊 Contributions & Activity
+
+<div align="center">
+
+| Metric | Badge |
+|--------|-------|
+| **Total Repos** | ![Repos](https://img.shields.io/badge/dynamic/json?label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKazuniverse&color=informational&style=flat) |
+| **Gists** | ![Gists](https://img.shields.io/badge/dynamic/json?label=Gists&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKazuniverse&color=yellow&style=flat) |
+| **Status** | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat) |
+
+</div>
+
+---
+
 ## ❤️ Passions
 
 <div align="center">
@@ -150,8 +203,19 @@
 
 - I love collecting unique fonts & icons for my designs.
 - I enjoy solving coding puzzles and logic games.
-- I’m always curious to try new frameworks and tech stacks.
+- I'm always curious to try new frameworks and tech stacks.
 - My favorite snack while coding: 🍫 + ☕️
+- I believe in continuous learning and pushing creative boundaries.
+
+---
+
+## 📚 Latest Activity
+
+<div align="center">
+
+![Activity](https://img.shields.io/badge/Last%20Updated-2026--06--25-blue?style=flat-square)
+
+</div>
 
 ---
 
@@ -163,6 +227,7 @@
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0078B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Website-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/Kazuniverse"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <!-- Tambahkan link nyata di atas setelah siap -->
 </div>
@@ -180,7 +245,22 @@
 
 ---
 
+## 🎯 Goals & Vision
+
+<div align="center">
+
+- 🌟 Build innovative games and web experiences
+- 🚀 Contribute to open-source projects
+- 📖 Share knowledge through blog posts & tutorials
+- 🤝 Collaborate with talented developers & designers
+- 💡 Create tools that solve real-world problems
+
+</div>
+
+---
+
 <div align="center">
   <b>Thanks for stopping by!</b><br>
-  Let's create, code, and connect 🚀
+  Let's create, code, and connect 🚀<br>
+  <i>Feel free to reach out and collaborate!</i>
 </div>
